@@ -4,4 +4,4 @@ and
  - :school: Educational  
  - :bar_chart: Analytics  
  - :mag_right: Research  
- - :bulb: Lab  
+ - :microscope: Lab  
